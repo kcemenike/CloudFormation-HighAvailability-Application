@@ -34,6 +34,3 @@ Create the server stack:
 ## Output
 The IP address of the load balancer (among other results)  
 In this case http://serve-webap-y448cjo99dqp-795255372.us-west-2.elb.amazonaws.com/
-
-![Load balancer output](loadbalancer_output.png)  
-![Output](output.png)
